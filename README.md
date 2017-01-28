@@ -30,6 +30,13 @@ nos réunions libres.
     pratiques.
 
 
+# MOOCs
+
+-   <https://www.coursera.org/learn/learning-how-to-learn> : un excellent
+    MOOC sur l'apprentissage, les rouages cognitifs et les bonnes
+    pratiques.
+
+
 # Licence
 
 Le contenu de ce dépôt est publié sous licence [Creative Commons BY-SA
